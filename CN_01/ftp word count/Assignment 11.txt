@@ -1,0 +1,5 @@
+Q1. Write a socket program where client send a text file to server and display the number of words and number of characters received from the client.
+
+Q2. Modify the host TCP Client and server socket program and make a tcp chatting application between client and server.
+
+Q3. Write a socket program for client server communication using UDP Protocol.
